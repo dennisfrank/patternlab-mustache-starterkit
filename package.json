@@ -1,0 +1,16 @@
+{
+  "name": "patternlab-starterkit",
+  "version": "0.1.0",
+  "description": "Custom Pattern Lab StarterKit for Mustache",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisfrank/patternlab-starterkit.git"
+  },
+  "author": "Dennis Frank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dennisfrank/patternlab-starterkit/issues"
+  },
+  "homepage": "https://github.com/dennisfrank/patternlab-starterkit#readme"
+}

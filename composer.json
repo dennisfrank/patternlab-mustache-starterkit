@@ -2,7 +2,7 @@
   "name":             "dennisfrank/patternlab-starterkit",
   "description":      "Custom Pattern Lab StarterKit for Mustache.",
   "keywords":         ["mustache", "pattern lab", "starterkit", "demo"],
-  "homepage":         "http://dennisfrank.info",
+  "homepage":         "https://github.com/dennisfrank/patternlab-starterkit#readme",
   "license":          "MIT",
   "type":             "patternlab-starterkit",
   "authors": [
@@ -12,9 +12,8 @@
     }
   ],
   "support": {
-    "issues":         "https://github.com/pattern-lab/starterkit-mustache-base/issues",
-    "wiki":           "http://patternlab.io/docs/",
-    "source":         "https://github.com/pattern-lab/starterkit-mustache-base/releases"
+    "issues":         "https://github.com/dennisfrank/patternlab-starterkit/issues",
+    "source":         "https://github.com/dennisfrank/patternlab-starterkit/releases"
   },
   "require": {
     "pattern-lab/core": "^2.0.0",
